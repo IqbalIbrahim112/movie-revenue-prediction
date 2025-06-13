@@ -142,6 +142,6 @@ Berdasarkan hasil analisis, berikut adalah beberapa rekomendasi strategis yang d
 
 Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi:
 
-* **[Nama Lengkap Anda]**
-* [Profil LinkedIn Anda](https://www.linkedin.com/in/nama_profil_anda)
-* [Email Anda](mailto:email_anda@example.com)
+* **Iqbal Triwicaksono Ibrahim**
+* [Profil LinkedIn Saya](https://www.linkedin.com/in/iqbaltriwicaksono)
+* [Email Saya](mailto:iqbaltriwicaksono112@gmail.com)
