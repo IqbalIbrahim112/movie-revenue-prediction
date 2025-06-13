@@ -79,7 +79,7 @@ Bagian ini mengeksplorasi hubungan antara anggaran produksi film (`budget`) dan 
 Analisis ini menyelidiki apakah keberadaan situs web resmi (homepage) untuk sebuah film memiliki dampak signifikan terhadap pendapatannya.
 
 * **Plot Pendapatan Berdasarkan Keberadaan Homepage:**
-    * Plot ini (kemungkinan `stripplot` atau `catplot`) membandingkan distribusi pendapatan (`revenue`) untuk dua kelompok: film tanpa homepage (`has_homepage = 0`, ditandai dengan titik merah) dan film dengan homepage (`has_homepage = 1`, ditandai dengan titik biru).
+    * Plot ini membandingkan distribusi pendapatan (`revenue`) untuk dua kelompok: film tanpa homepage (`has_homepage = 0`, ditandai dengan titik merah) dan film dengan homepage (`has_homepage = 1`, ditandai dengan titik biru).
     * Secara visual, terlihat jelas bahwa **film dengan homepage (biru) cenderung memiliki rentang pendapatan yang jauh lebih luas dan seringkali lebih tinggi** dibandingkan dengan film tanpa homepage (merah), yang pendapatannya terkonsentrasi di angka yang lebih rendah. Ini menunjukkan bahwa memiliki kehadiran web resmi dapat menjadi faktor penting yang berkontribusi pada kesuksesan finansial film.
     ![Pengaruh Homepage Terhadap Pendapatan](./images/4.png)
 
