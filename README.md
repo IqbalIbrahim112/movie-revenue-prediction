@@ -13,7 +13,7 @@
     * [Distribusi Bahasa dalam Film](#distribusi-bahasa-dalam-film)
     * [Kata-kata Kunci dalam Judul dan Deskripsi](#kata-kata-kunci-dalam-judul-dan-deskripsi)
     * [Pengaruh Deskripsi Film Terhadap Pendapatan](#pengaruh-deskripsi-film-terhadap-pendapatan)
-5.  [Rekomendasi Bisnis](#5-rekomendasi-bisnis)
+5.  [Rekomendasi](#5-rekomendasi)
 6.  [Kontak](#6-kontak)
 
 ---
@@ -24,14 +24,17 @@ Proyek ini adalah analisis data eksploratori (EDA) yang komprehensif terhadap da
 
 ## 2. Studi Kasus & Tujuan
 
-Dataset yang digunakan berisi data film dan informasi terkait dari berbagai tahun. Melalui EDA, proyek ini bertujuan untuk:
-* Memahami distribusi pendapatan film dan anggaran produksi.
-* Mengidentifikasi hubungan antara anggaran dan pendapatan.
-* Menganalisis dampak keberadaan homepage film terhadap pendapatan.
-* Melihat bagaimana bahasa asli film berkorelasi dengan pendapatan.
-* Mengekstrak kata kunci umum dari judul dan deskripsi film.
-* Menyelidiki apakah isi deskripsi film memiliki pengaruh terhadap pendapatannya.
-* Memberikan rekomendasi berbasis data untuk meningkatkan kinerja dan perencanaan produksi film.
+Dataset yang digunakan dalam proyek ini berisi data film dan informasi terkait seperti anggaran, pendapatan, bahasa, homepage, dan deskripsi film. Data ini diambil dari [The Movie Database (TMDb)](https://www.themoviedb.org/), sebuah platform sumber terbuka yang menyediakan data film dari berbagai negara dan tahun rilis.
+
+Melalui eksplorasi data (*Exploratory Data Analysis* / EDA), proyek ini bertujuan untuk:
+
+- Memahami distribusi pendapatan film dan anggaran produksinya.
+- Mengidentifikasi hubungan antara anggaran produksi dengan pendapatan yang dihasilkan.
+- Menganalisis dampak keberadaan homepage resmi film terhadap pendapatan.
+- Melihat bagaimana bahasa asli film (original language) berkorelasi dengan performa pendapatan.
+- Mengekstrak kata kunci umum dari judul dan deskripsi film untuk memahami tema populer.
+- Menyelidiki apakah isi deskripsi film memiliki pengaruh terhadap potensi pendapatan.
+- Memberikan rekomendasi berbasis data guna meningkatkan kinerja dan strategi perencanaan produksi film.
 
 ## 3. Dataset
 
