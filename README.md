@@ -115,15 +115,25 @@ Pada bagian terakhir ini, dilakukan analisis yang lebih mendalam untuk melihat a
     * **Bobot Negatif (merah):** Sebaliknya, kata-kata seperti "risky", "runaway", "factory", "doubts", "fulfill", "family man", "kept", "feel", "surrounded", "mob boss", "casino", "superstar", dan "market" memiliki bobot negatif yang signifikan. Keberadaan kata-kata ini dalam deskripsi berkorelasi dengan pendapatan film yang lebih rendah, mungkin menunjukkan tema yang kurang populer atau genre yang tidak terlalu menguntungkan. Wawasan ini sangat berharga untuk penulisan sinopsis atau *tagline* film agar lebih menarik.
     ![Bobot Fitur Teratas dari Deskripsi Film](./images/8.png)
 
-## 5. Rekomendasi Bisnis
+## 5. Rekomendasi
 
-Berdasarkan temuan di atas, berikut adalah rekomendasi tindakan yang dapat dipertimbangkan dalam industri film:
+Berdasarkan hasil analisis, berikut adalah beberapa rekomendasi strategis yang dapat dipertimbangkan oleh pelaku industri film:
 
-1.  **Strategi Anggaran yang Optimal:** Investasi anggaran produksi memiliki korelasi kuat dengan potensi pendapatan. Produser harus menargetkan anggaran secara strategis untuk memaksimalkan potensi *return on investment* (ROI).
-2.  **Perkuat Kehadiran Digital:** Memiliki homepage atau platform web resmi untuk film terbukti berkorelasi positif dengan pendapatan. Investasi dalam *digital marketing* dan *web presence* harus menjadi prioritas.
-3.  **Memahami Pasar Bahasa:** Film berbahasa Inggris memiliki dominasi pasar yang signifikan. Namun, peluang di pasar bahasa lain juga ada dan harus dieksplorasi melalui strategi lokalisasi dan distribusi yang tepat.
-4.  **Optimalisasi Konten Deskripsi:** Perhatikan pemilihan kata-kata dalam sinopsis dan deskripsi film. Kata-kata yang terbukti memiliki bobot positif (misalnya, terkait dengan konflik, intrik) dapat digunakan untuk menarik audiens, sementara kata-kata dengan bobot negatif mungkin perlu dihindari atau ditinjau ulang.
-5.  **Analisis Tren Narasi:** Kata-kata kunci dari judul dan deskripsi dapat memberikan wawasan tentang tema dan genre yang sedang populer atau diminati pasar. Ini dapat menjadi panduan untuk pengembangan proyek film di masa depan.
+1. **Penetapan Anggaran Produksi yang Strategis**  
+   Terdapat hubungan positif antara besarnya anggaran produksi dengan pendapatan yang diperoleh. Oleh karena itu, produser perlu merancang alokasi anggaran secara tepat, mempertimbangkan genre, target pasar, dan potensi *return on investment* (ROI) untuk memaksimalkan keuntungan.
+
+2. **Penguatan Kehadiran Digital dan Website Resmi**  
+   Film yang memiliki *homepage* cenderung menghasilkan pendapatan lebih tinggi. Kehadiran digital yang kuat, termasuk situs resmi dan strategi pemasaran digital yang efektif, berperan penting dalam meningkatkan visibilitas dan daya tarik film di pasar global.
+
+3. **Segmentasi Pasar Berdasarkan Bahasa**  
+   Film berbahasa Inggris mendominasi pasar, namun potensi pasar dalam bahasa lain tidak bisa diabaikan. Strategi lokalisasi konten, seperti penerjemahan dan distribusi multibahasa, dapat membuka peluang baru di pasar non-Inggris yang sedang tumbuh.
+
+4. **Pengoptimalan Konten Deskriptif**  
+   Deskripsi atau sinopsis film memainkan peran penting dalam membentuk persepsi awal audiens. Pemilihan kata yang tepat—terutama yang mengandung elemen konflik, ketegangan, atau emosi—dapat meningkatkan daya tarik dan keingintahuan penonton. Sebaliknya, deskripsi yang terlalu umum atau netral sebaiknya dihindari.
+
+5. **Pemanfaatan Analisis Naratif dan Judul**  
+   Analisis terhadap kata kunci dalam judul dan sinopsis film dapat mengungkap tren tema atau genre yang sedang diminati pasar. Informasi ini dapat dijadikan acuan dalam pengembangan naskah dan proyek film baru yang relevan dengan minat audiens saat ini.
+
 
 ## 6. Kontak
 
